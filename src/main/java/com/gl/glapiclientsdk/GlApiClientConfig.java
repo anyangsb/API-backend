@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
 @Data
 @ComponentScan
 public class GlApiClientConfig {
+
     private String accessKey;
 
     private String secretKey;
